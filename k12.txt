@@ -9,3 +9,4 @@ all pulled
 kim ki hong
 kim so mi 2
 after two files commit
+checkout 명령에 파일이름이 주어지면 

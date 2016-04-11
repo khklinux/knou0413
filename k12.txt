@@ -11,3 +11,7 @@ kim so mi 2
 after two files commit
 checkout 명령에 파일이름이 주어지면 
 다시 add, commit 명령 시도
+소프트웨어공학 숙제
+DB숙제 추가
+aa숙제 bb 숙제
+amend

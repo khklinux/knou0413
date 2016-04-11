@@ -11,3 +11,4 @@ kim so mi 2
 after two files commit
 checkout 명령에 파일이름이 주어지면 
 다시 add, commit 명령 시도
+1234

@@ -24,4 +24,5 @@ abcde
 아자차카타파하
 Today is a voting day.
 There are many flowers in the park.
-I have voted someone already. 
+I have voted someone already.
+I have been studying for git. 
